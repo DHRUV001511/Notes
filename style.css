@@ -1,4 +1,3 @@
-/* Global Styling */
 * {
     margin: 0;
     padding: 0;
@@ -132,7 +131,7 @@ button:hover {
     overflow: hidden;
 }
 
-/* Input Fields */
+/* Input Field */
 .note-title, .note-content {
     width: 100%;
     border: none;
