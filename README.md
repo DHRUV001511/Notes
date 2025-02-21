@@ -17,6 +17,9 @@ A simple and elegant Notes App that allows users to **create, edit, delete, and 
 
 ## 📸 Demo
 
+![Image](https://github.com/user-attachments/assets/05af9bba-660e-47d3-8c19-58a364bc07f8)
+![Image](https://github.com/user-attachments/assets/441dab09-d2e3-4f16-8a8f-4a22c56fcb02)
+
 
 
 ## 🔧 Installation & Setup
